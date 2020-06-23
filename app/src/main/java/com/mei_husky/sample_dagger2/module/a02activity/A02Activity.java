@@ -33,5 +33,6 @@ public class A02Activity extends AppCompatActivity {
 
         Log.i("tag", "注入完毕，Student = " + student.toString());
         Log.i("tag", "注入完毕，sp = " + sp.toString());
+
     }
 }
